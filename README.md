@@ -1,12 +1,12 @@
 Klei Games Feature
 ===========
 
-Hero Slider created in Edge Animate.  Fully responsive for multiple device sizes.
+Hero Slider created in Edge Animate.  Fully responsive for multiple device sizes. Swap out the images with your own and publish. Edge Animate lets web designers create interactive HTML animations for web, digital publishing, rich media advertising and more, reaching both desktop and mobile browsers with ease.
 
-##[View the slider here](http://endodoug.github.io/KleiFeature)
+#### [View the slider here](http://endodoug.github.io/KleiFeature)
 
 #### Screenshot
-![Screenshot software](https://github.com/endodoug/Dallas-cop-shootings/blob/master/images/Poster.png "screenshot software")
+![Screenshot software](https://github.com/endodoug/KleiFeature/blob/master/images/Poster.png "screenshot software")
 
 ## Download
 * [Version 1.0](https://github.com/endodoug/endodoug/KleiFeature/archive/master.zip)
@@ -31,6 +31,7 @@ Hero Slider created in Edge Animate.  Fully responsive for multiple device sizes
 
 ## How-to use this code
 * see Adobe [Edge Animate Documentation](https://helpx.adobe.com/edge-animate.html)
+* Change out the images to your own.
 
 ## Contact
 #### Doug Harper
