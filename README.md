@@ -8,9 +8,6 @@ Hero Slider created in Edge Animate.  Fully responsive for multiple device sizes
 #### Screenshot
 ![Screenshot software](https://github.com/endodoug/KleiFeature/blob/master/images/Poster.png "screenshot software")
 
-## Download
-* [Version 1.0](https://github.com/endodoug/endodoug/KleiFeature/archive/master.zip)
-
 ## Usage
 ```$ git clone https://github.com/endodoug/KleiFeature
 ...```
